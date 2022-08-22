@@ -127,9 +127,15 @@ Cài đặt phần mềm hỗ trợ kết nối , cụ thể là đang cài đ�
 
 Tải souce wordpress mới nhất tại wordpress.org và giải nén tệp này ở một thư mục nào đó
 
-Mở phần mềm FileZilla và đăng nhập tài khoản database đã khởi tạo trong vestacp
+Mở phần mềm FileZilla và đăng nhập tài khoản database đã khởi tạo trong 
+
+![](https://file.matbao.support/system/data/default_home_folder/Hinh/ngapm/chrome_uDfWGK9J4v.png)
 
 Copy tất cả mã nguồn wordpress đã giải nén trước đó và dán vào thư mục /web/doisonggiadinh.xyz/public_html
+
+![](https://file.matbao.support/system/data/default_home_folder/Hinh/ngapm/chrome_3R5yTyq2P5.png)
+
+![](https://file.matbao.support/system/data/default_home_folder/Hinh/ngapm/rCyiabbw8L.png)
 
 Truy cập tên miền của mình vào trình duyệt Web sẽ ra giao diện khởi tạo tài khoản quản trị Wordpress và bạn có thể bắt đầu khởi tạo tài khoản của mình.
 
