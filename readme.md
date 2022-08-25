@@ -143,6 +143,8 @@ Truy cập tên miền của mình vào trình duyệt Web sẽ ra giao diện k
 
 ![](https://file.matbao.support/system/data/default_home_folder/Hinh/ngapm/Teams_mhyEvuk3LG.png)
 
+Chúc bạn thao tác thành công
+
 
 
 
