@@ -143,6 +143,21 @@ Truy cập tên miền của mình vào trình duyệt Web sẽ ra giao diện k
 
 ![](https://file.matbao.support/system/data/default_home_folder/Hinh/ngapm/Teams_mhyEvuk3LG.png)
 
+
+<html>
+
+<video width="320" height="240" controls>
+  <source src="mP2WClXWvq.mp4" type="video/mp4">
+</video>
+
+</html>
+
+
+
+https://user-images.githubusercontent.com/111569730/186597650-e0643345-9665-4511-9a23-2a622bef6717.mp4
+
+
+
 Chúc bạn thao tác thành công
 
 
